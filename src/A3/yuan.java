@@ -128,8 +128,6 @@ public class yuan extends JFrame{
     }
 
     
-    
-    
     public static void main(String[] args) {
         yuan q = new yuan();
     }
